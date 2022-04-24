@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zeyad Maher!
-- 👀 I'm a student at Faculty of Computers and Artifial intelligence
+- I'm a student at Faculty of Computers and Artifial intelligence
 - i have the full preparations to learn whatever the Job requires
 - i have a background of the problemsolving techniques and still learning everyday 
 - 🌱 I’m currently learning Backend using Spring&Java  and looking forward to learn other backend frameworks 
