@@ -21,13 +21,13 @@ Skilled in **Laravel**, **Spring**, **Flutter**, and **Database Design**, I exce
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle Database](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Get in Touch
 
-- Email: [zeyadmaher638@gmail.com](mailto:zeyadmaher638@gmail.com)
-- LinkedIn: [Zeyad Maher](https://www.linkedin.com/in/zeyad-maher-a47582233/)
+- Email: [Gmail](mailto:zeyadmaher638@gmail.com)
+- LinkedIn: [LinkedIn ](https://www.linkedin.com/in/zeyad-maher-a47582233/)
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or opportunities!
 
