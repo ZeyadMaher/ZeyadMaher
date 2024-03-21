@@ -1,6 +1,6 @@
-# Zeyad Mohamed
+# Zeyad Maher
 
-## Full-Stack Developer & Programming Instructor
+## Software Engineer & Programming Instructor
 
 ### About Me
 
