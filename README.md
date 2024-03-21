@@ -24,6 +24,9 @@ Skilled in **Laravel**, **Spring**, **Flutter**, and **Database Design**, I exce
 ![Oracle Database](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+### Current Focus
+Continuously sharpening my skills in software engineering, with a keen interest in exploring emerging technologies and frameworks to stay ahead of the curve.
+
 ### Get in Touch
 
 - Email: [Gmail](mailto:zeyadmaher638@gmail.com)
