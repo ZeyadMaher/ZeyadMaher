@@ -4,17 +4,15 @@
 
 ### About Me
 
-I am a Cairo University computer science graduate with a passion for designing scalable, high-performance systems and robust backend architectures[cite: 1]. As an AWS Certified Solutions Architect and experienced Java Developer, my expertise spans across enterprise backend services, microservices design, cloud computing, and advanced database management[cite: 1]. 
+I am a software engineer with a passion for designing scalable, high-performance systems and robust backend architectures. my expertise spans across enterprise backend services and building solutions helping people with their jobs. 
 
-The pursuit of new knowledge and challenges always fuels my motivation, whether optimizing critical production workflows or building full-stack cloud applications from scratch to production[cite: 1].
+The pursuit of new knowledge and challenges always fuels my motivation.
 
 #### Key Experiences
 
-- **Java Developer at Dirac Systems**: Designed and optimized high-performance Spring Boot services[cite: 1]. Spearheaded a 40% improvement in payment process speeds using PL/SQL stored procedures, customized Apache Superset for multi-tenant SaaS integration, and built features for major platforms like Fawry Business and the Egyptian Medical Union[cite: 1].
+- **Java Developer at Dirac Systems**: Designed and optimized high-performance Spring Boot services. Spearheaded a 40% improvement in payment process speeds using PL/SQL stored procedures, customized third-party tools integration to systems, and built features for major platforms like Fawry Business and the Egyptian Medical Union.
 
-- **Programming Instructor**: Taught Java, OOP design, Data Structures, and Oracle DBMS at Misr International Computer Academy[cite: 1]. Mentored students toward attaining Oracle Academy certifications, achieving an exceptional 97% exam pass rate[cite: 1].
-
-- **Cloud & Full-Stack Projects**: Graduated from the intensive ALX Africa Cloud Computing track, collaborating on architectural designs tailored for real-world business scenarios alongside containerizing applications with Docker for automated CI/CD pipelines[cite: 1].
+- **Programming Instructor**: Taught Java, OOP design, Data Structures, and Oracle DBMS at Misr International Computer Academy. Mentored students toward attaining Oracle Academy certifications, achieving an exceptional 97% exam pass rate.
 
 ### Technologies
 
@@ -30,17 +28,17 @@ The pursuit of new knowledge and challenges always fuels my motivation, whether 
 
 ### Certifications
 
-- **AWS Certified Solutions Architect – Associate** (March 2025)[cite: 1]
-- **AWS Certified Cloud Practitioner** (March 2025)[cite: 1]
+- **AWS Certified Solutions Architect – Associate** (March 2025)
+- **AWS Certified Cloud Practitioner** (January 2025)
 
 ### Current Focus
 
-Continuously sharpening my skills in cloud architecture and microservices, while optimizing distributed system performance to build reliable enterprise-grade applications[cite: 1].
+Continuously sharpening my skills in cloud architecture and microservices, while optimizing distributed system performance to build reliable enterprise-grade applications.
 
 ### Get in Touch
 
-- Email: [Gmail](mailto:zeyadmaher638@gmail.com)[cite: 1]
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/zeyad-maher)[cite: 1]
+- Email: [Gmail](mailto:zeyadmaher638@gmail.com)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/zeyad-maher)
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or opportunities!
 
