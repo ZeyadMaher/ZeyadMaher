@@ -4,17 +4,21 @@
 
 ### About Me
 
-I am a software engineer with a passion for designing scalable, high-performance systems and robust backend architectures. my expertise spans across enterprise backend services and building solutions helping people with their jobs. 
+I enjoy building software that solves real-world problems, designing reliable backend systems, and exploring the engineering behind scalable applications.
 
 The pursuit of new knowledge and challenges always fuels my motivation.
 
+### Certifications
+
+- **AWS Certified Solutions Architect – Associate** (March 2025)
+- **AWS Certified Cloud Practitioner** (January 2025)
+
 #### Key Experiences
+Backend Engineering: Built and optimized enterprise applications and Spring Boot services.
+Teaching: Helped aspiring developers build strong foundations in Java, OOP, Data Structures, and Databases.
 
-- **Java Developer at Dirac Systems**: Designed and optimized high-performance Spring Boot services. Spearheaded a 40% improvement in payment process speeds using PL/SQL stored procedures, customized third-party tools integration to systems, and built features for major platforms like Fawry Business and the Egyptian Medical Union.
 
-- **Programming Instructor**: Taught Java, OOP design, Data Structures, and Oracle DBMS at Misr International Computer Academy. Mentored students toward attaining Oracle Academy certifications, achieving an exceptional 97% exam pass rate.
-
-### Technologies
+### Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -25,15 +29,6 @@ The pursuit of new knowledge and challenges always fuels my motivation.
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### Certifications
-
-- **AWS Certified Solutions Architect – Associate** (March 2025)
-- **AWS Certified Cloud Practitioner** (January 2025)
-
-### Current Focus
-
-Continuously sharpening my skills in cloud architecture and microservices, while optimizing distributed system performance to build reliable enterprise-grade applications.
 
 ### Get in Touch
 
