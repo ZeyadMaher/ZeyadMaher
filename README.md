@@ -15,6 +15,7 @@ The pursuit of new knowledge and challenges always fuels my motivation.
 
 #### Key Experiences
 Backend Engineering: Built and optimized enterprise applications and Spring Boot services.
+
 Teaching: Helped aspiring developers build strong foundations in Java, OOP, Data Structures, and Databases.
 
 
